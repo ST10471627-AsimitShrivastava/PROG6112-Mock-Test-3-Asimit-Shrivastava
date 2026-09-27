@@ -1,21 +1,3 @@
-None selected 
-
-Skip to content
-Using Gmail with screen readers
-Enable desktop notifications for Gmail.
-   OK  No, thanks
-1 of 49
-CODE ATTRIBUTION LIST PROG TEST
-Inbox
-
-Jorryn Panjasuran
-Attachments
-12:46 (1 minute ago)
-to me
-
-
- One attachment
-  •  Scanned by Gmail
 // ======================================================================
 // CODE ATTRIBUTION LIST
 // ======================================================================
